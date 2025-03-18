@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLWY01uO84g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\neust\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neust\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\neust\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\neust\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\neust\\.nuget\\packages\\swashbuckle.aspnetcore.healthchecks\\0.1.0\\swashbuckle.aspnetcore.healthchecks.0.1.0.nupkg.sha512",
+    "C:\\Users\\neust\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.9.0\\swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
+    "C:\\Users\\neust\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.9.0\\swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512",
+    "C:\\Users\\neust\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\neust\\.nuget\\packages\\unchase.swashbuckle.aspnetcore.extensions\\2.7.2\\unchase.swashbuckle.aspnetcore.extensions.2.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
